@@ -72,6 +72,3 @@ To create an interactive, insightful, and professional data visualization dashbo
    - Summarize key insights from the dashboard, emphasizing global climate change patterns, high-risk regions, and emerging trends.
    - Discuss potential policy implications or suggestions for further research based on the findings.
 
----
-
-This project will showcase your ability to handle large datasets, extract meaningful insights, design professional visualizations, and build an interactive user experience that can educate and inform stakeholders on critical climate issues. It will also highlight your technical skills with data processing, database management, and cloud deployment—essential abilities for a professional data scientist in 2024.
