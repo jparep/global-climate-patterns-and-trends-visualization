@@ -1,0 +1,46 @@
+# Ignore data files
+CO2_emission_data.xls
+NOAA_global_mean_sea_level_data.csv
+global_surface_temperature_data.csv
+natural_disaster_frequency_data.xlsx
+data/
+
+# Ignore virtual environment directories
+venv/
+.env/
+
+# Ignore Python cache and compiled files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Ignore Jupyter notebook checkpoints (if any)
+.ipynb_checkpoints/
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore application-specific files
+*.sqlite3
+*.db
+
+# Ignore IDE and editor files
+.vscode/
+.idea/
+*.code-workspace
+
+# Ignore environment configuration files
+.env
+.env.*
+
+# Ignore files related to Docker (if deploying via Docker)
+Dockerfile
+docker-compose.yml
