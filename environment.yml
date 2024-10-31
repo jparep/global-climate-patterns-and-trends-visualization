@@ -1,9 +1,0 @@
-name: gcp-env
-channels:
-- python=3.11
-- pandas
-- numpy
-- matplotlib
-- seaborn
-- plotly
-- jupyterlab

@@ -1,4 +1,5 @@
 # Ignore data files
+/data
 CO2_emission_data.xls
 NOAA_global_mean_sea_level_data.csv
 global_surface_temperature_data.csv
